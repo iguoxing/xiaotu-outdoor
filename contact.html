@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Request a Quotation | XIAOTU OUTDOOR</title>
+<meta name="description" content="Send the item code and quantity for a quotation — XIAOTU OUTDOOR, Hebei, China.">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body data-page="contact">
+<nav class="nav" id="nav"></nav>
+
+<section class="section">
+  <div class="container">
+    <div class="contact-wrap">
+      <div>
+        <div class="kicker" id="cKicker" style="color:var(--green)"></div>
+        <h1 id="cHead" style="font-size:clamp(26px,4vw,40px);color:var(--green-dark);margin:12px 0 10px"></h1>
+        <p id="cSub" style="color:var(--muted)"></p>
+        <ul class="field-list" id="fieldList"></ul>
+        <div id="coInfo" style="margin-top:30px"></div>
+      </div>
+      <form class="contact-form" onsubmit="return false">
+        <label id="l_f_code"></label>
+        <select id="in_code"></select>
+        <label id="l_f_qty"></label>
+        <input id="in_qty" type="text" placeholder="e.g. 200">
+        <label id="l_f_colour"></label>
+        <input id="in_colour" type="text" placeholder="e.g. Black">
+        <label id="l_f_port"></label>
+        <input id="in_port" type="text" placeholder="e.g. Sydney / Jebel Ali">
+        <label id="l_f_extra"></label>
+        <textarea id="in_extra"></textarea>
+        <button class="btn btn-wa" id="sendBtn" type="button"></button>
+      </form>
+    </div>
+  </div>
+</section>
+
+<footer id="foot"></footer>
+<script src="assets/js/data.js"></script>
+<script src="assets/js/main.js"></script>
+</body>
+</html>
