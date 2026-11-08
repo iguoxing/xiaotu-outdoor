@@ -90,6 +90,9 @@
     document.getElementById("heroKicker").textContent = T.hero_kicker;
     document.getElementById("heroCta").textContent = T.hero_cta;
     document.getElementById("heroCta2").textContent = T.hero_cta2;
+    document.getElementById("heroProof1").textContent = T.hero_proof_1;
+    document.getElementById("heroProof2").textContent = T.hero_proof_2;
+    document.getElementById("heroProof3").textContent = T.hero_proof_3;
     document.getElementById("catTitle").textContent = T.cat_title;
     document.getElementById("catSub").textContent = T.cat_sub;
     document.getElementById("selTitle").textContent = T.selected_title;
