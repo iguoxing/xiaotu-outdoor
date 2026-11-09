@@ -5,15 +5,15 @@ const SITE = {
   whatsapp: "85290175471", // WhatsApp: +852 9017 5471（wa.me 格式，不带 + 和空格）
   brand: "XIAOTU OUTDOOR",
   company: {
-    zh: "固安浪野户外用品有限公司",
-    en: "Gu'an Langye Outdoor Products Co., Ltd.",
-    ar: "شركة قوان لانغيه للمنتجات الخارجية المحدودة"
+    zh: "骁途户外用品有限公司",
+    en: "Xiaotu Outdoor Products Co., Ltd.",
+    ar: "شركة شياوتو للمنتجات الخارجية المحدودة"
   },
   phone: "+86 188 3164 7564",
   address: {
-    zh: "河北省廊坊市固安县礼让店乡礼二村康永路",
-    en: "Kangyong Road, Li'er Village, Lirangdian Township, Gu'an County, Langfang, Hebei, China",
-    ar: "طريق كانغيونغ، قرية ليآر، بلدة ليرانغديان، مقاطعة قوان، مدينة لانغفانغ، خبي، الصين"
+    zh: "河北省廊坊市固安县礼让店乡礼二村骁途户外用品有限公司",
+    en: "Xiaotu Outdoor Products Co., Ltd., Li'er Village, Lirangdian Township, Gu'an County, Langfang, Hebei, China",
+    ar: "شركة شياوتو للمنتجات الخارجية المحدودة، قرية ليآر، بلدة ليرانغديان، مقاطعة قوان، مدينة لانغفانغ، خبي، الصين"
   },
   location: { en: "Gu'an, Hebei, China", ar: "قوان، خبي، الصين" }
 };
@@ -53,7 +53,7 @@ const I18N = {
     f_code: "Item code", f_qty: "Quantity", f_colour: "Colour", f_port: "Destination port", f_extra: "Additional requirements",
     f_send: "Reply with your selection",
     about_title: "About XIAOTU OUTDOOR",
-    about_body: "XIAOTU OUTDOOR is the outdoor living & camping brand of Gu'an Langye Outdoor Products Co., Ltd., a manufacturer based in Gu'an County, Langfang, Hebei, China. Our collection covers folding chairs, camp tables, table & chair sets, inflatable tents, canopies and tent accessories — 47 catalogue items ready for wholesale.",
+    about_body: "XIAOTU OUTDOOR is the outdoor living & camping brand of Xiaotu Outdoor Products Co., Ltd., a manufacturer based in Li'er Village, Lirangdian Township, Gu'an County, Langfang, Hebei, China. Our collection covers folding chairs, camp tables, table & chair sets, inflatable tents, canopies and tent accessories — 47 catalogue items ready for wholesale.",
     about_flow: "How we work: pick your items → send an enquiry → receive a quotation → confirm & ship.",
     lb_addr: "Factory Address", lb_phone: "Phone", lb_wa: "WhatsApp", info_title: "Reach us directly",
     footer_tag: "Chairs, tables and inflatable tents",
@@ -94,7 +94,7 @@ const I18N = {
     f_code: "رمز الصنف", f_qty: "الكمية", f_colour: "اللون", f_port: "ميناء الوجهة", f_extra: "متطلبات إضافية",
     f_send: "أرسل ردًا باختياراتك",
     about_title: "عن XIAOTU OUTDOOR",
-    about_body: "XIAOTU OUTDOOR هي علامة الأثاث الخارجي ومعدات التخييم التابعة لشركة قوان لانغيه للمنتجات الخارجية المحدودة، وهي مصنع يقع في مقاطعة قوان، مدينة لانغفانغ، خبي، الصين. تغطي تشكيلتنا الكراسي القابلة للطي وطاولات التخييم وأطقم الطاولات والكراسي والخيام القابلة للنفخ والمظلات وملحقات الخيام — 47 صنفًا جاهزًا للجملة.",
+    about_body: "XIAOTU OUTDOOR هي علامة الأثاث الخارجي ومعدات التخييم التابعة لشركة شياوتو للمنتجات الخارجية المحدودة، وهي شركة مصنّعة تقع في قرية ليآر، بلدة ليرانغديان، مقاطعة قوان، مدينة لانغفانغ، خبي، الصين. تغطي تشكيلتنا الكراسي القابلة للطي وطاولات التخييم وأطقم الطاولات والكراسي والخيام القابلة للنفخ والمظلات وملحقات الخيام — 47 صنفًا جاهزًا للجملة.",
     about_flow: "طريقة العمل: اختر الأصناف ← أرسل الاستفسار ← استلم عرض السعر ← التأكيد والشحن.",
     lb_addr: "عنوان المصنع", lb_phone: "الهاتف", lb_wa: "واتساب", info_title: "تواصل معنا مباشرة",
     footer_tag: "كراسي وطاولات وخيام قابلة للنفخ",
